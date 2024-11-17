@@ -9,3 +9,5 @@ You can choose any operation from the below
 5. Modulous
 6. Exponential
 7. XOR
+
+![video1086351871(1)](https://github.com/user-attachments/assets/82dff8a5-cde7-4677-8a21-6ac0ab610048)
